@@ -1,7 +1,7 @@
 .App {
-  margin: auto;
+  margin: 2em auto;
   width: 300px;
-  min-height: 250px;
+  /* min-height: 250px; */
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
   border-radius: 20px;
